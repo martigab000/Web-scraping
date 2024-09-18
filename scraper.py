@@ -7,7 +7,7 @@ import pandas as pd
 import datetime
 import hashlib
 
-lst = []
+lst = [] your mom stinks
 new_run = datetime.datetime.now().strftime("%Y-%m-%d")
 new_folder = str(new_run)
 # print(new_folder)
